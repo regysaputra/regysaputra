@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @regysaputra
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning kotlin, node.js
+- 👀 I’m interested in programming 
+- 🌱 I’m currently learning golang, react.js, and node.js
 - 📫 How to reach me :
       twitter: @regysaputra8
       instagram: @regysaputra
